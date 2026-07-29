@@ -1,0 +1,17 @@
+import CategoryTheoryOperadsCanonicalLaneLean.AdmissibleClass
+import CategoryTheoryOperadsCanonicalLaneLean.BridgeLemmas
+import CategoryTheoryOperadsCanonicalLaneLean.GateLemmas
+import CategoryTheoryOperadsCanonicalLaneLean.FinalTheorem
+import CategoryTheoryOperadsCanonicalLaneLean.OperadStructure
+import CategoryTheoryOperadsCanonicalLaneLean.YonedaEmbedding
+import CategoryTheoryOperadsCanonicalLaneLean.LimitsColimits
+import CategoryTheoryOperadsCanonicalLaneLean.Adjunction
+import CategoryTheoryOperadsCanonicalLaneLean.UniversalConstruction
+
+namespace HautevilleHouse
+namespace CategoryTheoryOperadsCanonicalLaneLean
+
+-- Master import file for the Category Theory Operads package
+
+end CategoryTheoryOperadsCanonicalLaneLean
+end HautevilleHouse
